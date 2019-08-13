@@ -9,4 +9,4 @@ Shadertoy GLSL shaders ported into TouchDesigner
 
 **Aya_Tunnel** — generative raymarching tunnel. [Shadertoy original by BigWIngs](https://www.shadertoy.com/view/WtfXzB)
 
-![Aya_Tunnel](https://github.com/exsstas/Shadertoy-TD-ports/blob/master/Aya_Tunnel.jpg "Aya Tunnel")
+![Aya_Tunnel](https://github.com/exsstas/Shadertoy-TD-ports/blob/master/AyaTunnel.jpg "Aya Tunnel")
