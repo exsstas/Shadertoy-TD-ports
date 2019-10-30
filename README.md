@@ -14,6 +14,6 @@ Shadertoy GLSL shaders ported into TouchDesigner
 
 
 
-**Branching_paths_basic.tox** — colorful trails. Click "Reset" to start [Shadertoy original by wyatt](https://www.shadertoy.com/view/ts33DS). Advanced version working with masks ([Text](https://www.instagram.com/p/B4IqFhMiQoS/), [Kinect](https://www.instagram.com/p/B4Nw5QCCufI/) or somewhing else) is [available on Patreon](https://www.patreon.com/posts/31171643).
+**Branching_paths_basic.tox** — colorful trails. Click "Reset" to start [Shadertoy original by wyatt](https://www.shadertoy.com/view/ts33DS). Advanced version working with masks ([Text](https://www.instagram.com/p/B4IqFhMiQoS/), [Kinect](https://www.instagram.com/p/B4Nw5QCCufI/) or somewhing else) is [available on Patreon](https://www.patreon.com/posts/31171643). Or you can figure out how to do it by yourself! It's not that hard, actually.
 
 ![Branching_paths](https://github.com/exsstas/Shadertoy-TD-ports/blob/master/Branching_paths.jpg "Branching paths")
